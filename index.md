@@ -15,11 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Huawei, Huawei technologies France, Huawei France
+- Huawei, Huawei Technologies France, Huawei France
+- PRC, Zoe, privacy
 - car, vehicle, 
 - camera, video, video recording, 
 - street, roads,  
-- Cities where the car will do the recording: Paris, Boulogne Billancourt, Issy les Moulineaux, 75, 92, 78 …
+- Paris, Boulogne Billancourt, Issy les Moulineaux, 75, 92, 78 …
 - data subject, personal data, image
 
 1. Numbered
