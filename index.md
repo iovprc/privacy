@@ -4,6 +4,20 @@ You can use the [editor on GitHub](https://github.com/iovprc/zoe_privacy/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+- Huawei, Huawei Technologies France, Huawei France
+- PRC, Zoe, privacy
+- car, vehicle, 
+- camera, video, video recording, 
+- street, roads,  
+- Paris, Boulogne Billancourt, Issy les Moulineaux, 75, 92, 78 …
+- data subject, personal data, image
+- Paris Research Center
+- Self-driving car
+- Autonomous driving
+- Lidar
+- Sensors
+- QR code
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
