@@ -22,6 +22,12 @@ Syntax highlighted code block
 - street, roads,  
 - Paris, Boulogne Billancourt, Issy les Moulineaux, 75, 92, 78 …
 - data subject, personal data, image
+- Paris Research Center
+- Self-driving car
+- Autonomous driving
+- Lidar
+- Sensors
+- QR code
 
 1. Numbered
 2. List
