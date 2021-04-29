@@ -1,4 +1,4 @@
-# zoe_privacy
+# privacy
 
 •	Huawei, Huawei technologies France, Huawei France
 •	car, vehicle, 
