@@ -1,6 +1,6 @@
 ## Huawei R&D France -Centre de recherche de Paris IOV(Huawei Intelligent Automotive Research)"EGO Vehicle" -Recherche d'algorithmes pour l'étude d'une application de conduite intelligente
 
-[Privacy notice](https://www.lmcrc.fr/web/viewer.html?file=pdf_HuaweiFR-IOV-EgoCar-PrivacyNotice.pdf)
+[https://www.lmcrc.fr/web/viewer.html?file=pdf_HuaweiFR-IOV-EgoCar-PrivacyNotice.pdf](https://www.lmcrc.fr/web/viewer.html?file=pdf_HuaweiFR-IOV-EgoCar-PrivacyNotice.pdf)
 
 - Huawei, Huawei Technologies France, Huawei France
 - PRC, Zoe, privacy
