@@ -15,10 +15,12 @@ Autonomous driving
 Lidar
 Sensors
 QR code
+donnéees personnelles, politique
+GDPR
 
 •	Huawei, Huawei technologies France, Huawei France
 •	car, vehicle, 
 •	camera, video, video recording, 
 •	street, roads,  
 •	Cities where the car will do the recording: Paris, Boulogne Billancourt, Issy les Moulineaux, 75, 92, 78 …
-•	data subject, personal data, image
+•	data subject, personal data, image, donnéees personnelles, politique
